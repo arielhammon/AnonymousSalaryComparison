@@ -1,0 +1,10 @@
+C:\Users\ahammon3\source\repos\AnonymousSalaryComparison\bin\Debug\netcoreapp2.1\AnonymousSalaryComparison.deps.json
+C:\Users\ahammon3\source\repos\AnonymousSalaryComparison\bin\Debug\netcoreapp2.1\AnonymousSalaryComparison.runtimeconfig.json
+C:\Users\ahammon3\source\repos\AnonymousSalaryComparison\bin\Debug\netcoreapp2.1\AnonymousSalaryComparison.runtimeconfig.dev.json
+C:\Users\ahammon3\source\repos\AnonymousSalaryComparison\bin\Debug\netcoreapp2.1\AnonymousSalaryComparison.dll
+C:\Users\ahammon3\source\repos\AnonymousSalaryComparison\bin\Debug\netcoreapp2.1\AnonymousSalaryComparison.pdb
+C:\Users\ahammon3\source\repos\AnonymousSalaryComparison\obj\Debug\netcoreapp2.1\AnonymousSalaryComparison.csproj.CoreCompileInputs.cache
+C:\Users\ahammon3\source\repos\AnonymousSalaryComparison\obj\Debug\netcoreapp2.1\AnonymousSalaryComparison.AssemblyInfoInputs.cache
+C:\Users\ahammon3\source\repos\AnonymousSalaryComparison\obj\Debug\netcoreapp2.1\AnonymousSalaryComparison.AssemblyInfo.cs
+C:\Users\ahammon3\source\repos\AnonymousSalaryComparison\obj\Debug\netcoreapp2.1\AnonymousSalaryComparison.dll
+C:\Users\ahammon3\source\repos\AnonymousSalaryComparison\obj\Debug\netcoreapp2.1\AnonymousSalaryComparison.pdb
